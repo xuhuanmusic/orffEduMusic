@@ -1,6 +1,5 @@
 # MusicRhythmNet
-
-[![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxxx.svg)](https://doi.org/10.xxxx/zenodo.xxxxxx)
+[![DOI](https://zenodo.org/badge/1120616547.svg)](https://doi.org/10.5281/zenodo.18016360)
 
 > **Real-time rhythmic feedback for children's Orff music education using deep learning**
 > This repository contains the official implementation of **MusicRhythmNet**, an AI system designed to detect timing deviations in children’s musical performances (ages 4–8) and provide developmentally appropriate feedback. The model is trained via transfer learning from adult groove data and fine-tuned on child-specific recordings.
@@ -26,3 +25,4 @@
   source env/bin/activate # Linux/macOS
   
   # 
+
